@@ -1,6 +1,6 @@
 {
-  "title": "Cluster Headache Syndrome Whole Exome Sequencing",
-  "description": "Whole exome sequencing data from 23 individuals with Cluster Headache Syndrome were recruited at the Montreal Neurological Institute and Hospital. Recruiting clinician was Dr. Guy Rouleau. Sequencing reads were processed using a Burrows-Wheeler Aligner (BWA) alignment, Genome Analysis Toolkit (GATK)/Picard post-alignment, and GATK HaplotypeCaller calling pipeline.",
+  "title": "Congenital Anterolateral Bowing of the Tibia and Polydactyly Whole Exome Sequencing",
+  "description": "Whole exome sequencing data from 8 individuals with Congenital Anterolateral Bowing of the Tibia and Polydactyly were recruited at the Montreal Neurological Institute and Hospital. Recruiting clinician was Dr. Guy Rouleau. Sequencing reads were processed using a Burrows-Wheeler Aligner (BWA) alignment, Genome Analysis Toolkit (GATK)/Picard post-alignment, and GATK HaplotypeCaller calling pipeline.",
   "creators": [
     {
       "name": "The Montreal Neurological Institute and Hospital Bioinformatics Core",
@@ -43,7 +43,7 @@
         "BAM ALIGNMENTS",
         "GVCF/VCF FILES"
       ],
-      "size": 313.12897,
+      "size": 64.25048,
       "unit": {
         "value": "GB"
       },
@@ -68,7 +68,7 @@
   ],
   "keywords": [
     {
-      "value": "Cluster Headache Syndrome"
+      "value": "Congenital Anterolateral Bowing of the Tibia and Polydactyly"
     },
     {
       "value": "Exome"
@@ -85,7 +85,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": "23"
+          "value": "8"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "category": "files",
       "values": [
         {
-          "value": "115"
+          "value": "33"
         }
       ]
     },
@@ -134,14 +134,6 @@
       "values": [
         {
           "value": "Canada"
-        }
-      ]
-    },
-	{
-      "category": "logo",
-      "values": [
-        {
-          "value": "logo.png"
         }
       ]
     },
